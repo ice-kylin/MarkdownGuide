@@ -1,6 +1,6 @@
 # Markdown表格
 
-> 你可能可以想到，在 Excel 或 Word 里可以使用表格，但你曾想象过在纯文本文件里使用表格吗？Markdown 文件可以做到。
+> 你可能可以想到，在 Excel 或 Word 里可以使用表格，但你曾想象过在纯文本文件里使用表格吗[^1]？Markdown 可以做到。
 
 ## 基本语法
 
@@ -41,3 +41,11 @@ Markdown 制作表格使用 `|` 分隔不同的单元格，使用 `-` 分隔表�
 | :------------- | -------------: | :----------------: |
 | 语文           |             80 |         91         |
 | 数学           |             90 |         85         |
+
+[^1]:如果您稍稍了解前端,那么请忽视这段话 :/
+
+***
+
+本作品采用知识共享 署名-非商业性使用 4.0 国际 许可协议进行许可。要查看该许可协议，可访问 http://creativecommons.org/licenses/by-nc/4.0/ 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
+
+![by-nc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/by-nc.svg)

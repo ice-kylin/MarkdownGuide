@@ -12,7 +12,7 @@ Markdown 语言编写的文档后缀为 ` .md` 或 `.markdown` 。
 
 1. Markdown 简介
 2. Markdown 编辑
-3. Markdown语法
+3. Markdown 语法
    - Markdown标题
    - 段落与段落格式
    - Markdown列表
@@ -20,21 +20,10 @@ Markdown 语言编写的文档后缀为 ` .md` 或 `.markdown` 。
    - Markdown表格
    - 链接与图片引用
    - Markdown代码
-4. Markdown高级
+4. Markdown 高级
    - Markdown转义
    - Markdown流程
    - 标签与数学公式
-
-## 欢迎阅读
-
-###  指南作者
-
-本指南由 Icekylin 编写，力求简约有趣
-
-###  提出意见
-
-人非圣贤孰能无过！
-欢迎读者批评指正！
 
 ***
 
