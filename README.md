@@ -1,3 +1,11 @@
+# Markdown 中文教程📘
+
+>  简约有趣
+
+## 作者简介
+
+icekylin，最爱的编程语言是 Python，对前端也有所了解。
+
 ## Markdown 简介
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读、易写、易更改的纯文本格式编写文档。
@@ -24,6 +32,11 @@ Markdown 语言编写的文档后缀为 ` .md` 或 `.markdown` 。
    - [Markdown转义](https://gitee.com/ice-kylin/MarkdownGuide/blob/master/Guide/Markdown%E8%BD%AC%E4%B9%89.md)
    - [Markdown流程](https://gitee.com/ice-kylin/MarkdownGuide/blob/master/Guide/Markdown%E6%B5%81%E7%A8%8B.md)
    - [标签与数学公式](https://gitee.com/ice-kylin/MarkdownGuide/blob/master/Guide/%E6%A0%87%E7%AD%BE%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.md)
+5. 写在后面
+
+***
+
+<img src="http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/SaltedFish.gif" alt="SaltedFish" style="zoom: 25%;" />
 
 ***
 
