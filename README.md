@@ -1,8 +1,8 @@
 ## Markdown 简介
 
-Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
+Markdown 是一种轻量级标记语言，它允许人们使用易读、易写、易更改的纯文本格式编写文档。
 
-Markdown 语言在2004年由约翰·格鲁伯（John Gruber）创建。
+Markdown 语言在2004年由亚伦·斯沃茨（Aaron Swartz）和约翰·格鲁伯（John Gruber）联合设计。
 
 Markdown 语言编写的文档可以导出 HTML、Word、PDF、图像等多种格式的文档。
 
