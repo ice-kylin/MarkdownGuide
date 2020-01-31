@@ -10,7 +10,7 @@ Markdown 语言编写的文档后缀为 ` .md` 或 `.markdown` 。
 
 ## 指南目录
 
-1. Markdown 简介
+1. [Markdown 简介](https://gitee.com/ice-kylin/MarkdownGuide/blob/master/Guide/Markdown%E7%AE%80%E4%BB%8B.md)
 2. [Markdown 编辑](https://gitee.com/ice-kylin/MarkdownGuide/blob/master/Guide/Markdown%E7%BC%96%E8%BE%91.md)
 3. Markdown 语法
    - [Markdown标题](https://gitee.com/ice-kylin/MarkdownGuide/blob/master/Guide/Markdown%E6%A0%87%E9%A2%98.md)
