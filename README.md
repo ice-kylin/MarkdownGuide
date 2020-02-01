@@ -1,4 +1,6 @@
-# Markdown 中文教程📘
+![Title](http://ice-kylin.gitee.io/icekylinfigurebed/images/MarkdownGuide/MarkdownGuide-Title.svg)
+
+# Markdown 中文教程
 
 >  简约有趣
 
@@ -38,4 +40,4 @@ Markdown 语言编写的文档后缀为 ` .md` 或 `.markdown` 。
 
 本作品采用知识共享 署名-非商业性使用 4.0 国际 许可协议进行许可。要查看该许可协议，可访问 http://creativecommons.org/licenses/by-nc/4.0/ 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
 
-![by-nc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/by-nc.svg) ![SaltedFish](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/SaltedFish(89×50).gif) 
+![cc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/License/cc-colourful.svg) ![nc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/License/nc-colourful.svg) ![by](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/License/by-colourful.svg)

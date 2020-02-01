@@ -4,7 +4,7 @@
 
 ## 编辑器简介
 
-### ![Markdown编辑-Typora](http://ice-kylin.gitee.io/icekylinfigurebed/images/MarkdownGuide/Markdown%E7%BC%96%E8%BE%91-Typora.png)Typora
+### ![Typora](http://ice-kylin.gitee.io/icekylinfigurebed/images/MarkdownGuide/Markdown%E7%BC%96%E8%BE%91-Typora.png)Typora
 
 Typora 支持 MacOS、Windows、Linux 平台，且内置多种主题，编辑后直接渲染出效果。在 Typora 的官网上，你可以下载到更多的主题。Typora 还支持导出 HTML、PDF、Word、图片等多种类型文件。Typora 也是笔者最为推荐的 Markdown 编辑器。
 
@@ -24,7 +24,7 @@ VNote是一款专为 Markdown 设计的Vim风格笔记应用程序，而不仅�
 
 Visual Studio Code 是一款免费开源的现代化轻量级代码编辑器，支持 MacOS、Windows、Linux 平台。支持几乎所有主流的开发语言的语法高亮、智能代码补全。Visual Studio Code 已默认集成 Markdown 文档编辑插件，原生支持高亮 Markdown 语法。
 
-### Sublime Text
+### ![SublimeText](http://ice-kylin.gitee.io/icekylinfigurebed/images/MarkdownGuide/Markdown%E7%BC%96%E8%BE%91-SublimeText.svg)Sublime Text
 
 Sublime Text 是一款流行的代码编辑器软件，也是 HTML 和散文先进的文本编辑器，支持 MacOS、Windows、Linux 平台。也是许多程序员喜欢使用的一款文本编辑器软件。注意，要使 Sublime Text 有 Markdown 语法高亮和实时渲染，需要安装插件。
 
@@ -55,4 +55,4 @@ Sublime Text 是一款流行的代码编辑器软件，也是 HTML 和散文先�
 
 本作品采用知识共享 署名-非商业性使用 4.0 国际 许可协议进行许可。要查看该许可协议，可访问 http://creativecommons.org/licenses/by-nc/4.0/ 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
 
-![by-nc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/by-nc.svg)
+![cc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/License/cc-colourful.svg) ![nc](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/License/nc-colourful.svg) ![by](http://ice-kylin.gitee.io/icekylinfigurebed/images/PublicFile/License/by-colourful.svg)
